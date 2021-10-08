@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @chromamir
+- 👀 I’m interested in python in c4d
+- 🌱 I’m currently learning python
